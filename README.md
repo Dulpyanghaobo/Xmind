@@ -1,0 +1,2 @@
+# Xmind
+collating of data
